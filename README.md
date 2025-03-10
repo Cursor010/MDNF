@@ -16,6 +16,7 @@ The project is an application designed as a tool for managing Boolean functions 
 
 ## Screenshots:
 + Screenshots to be uploaded soon.
+![Main](https://github.com/Cursor010/MDNF/blob/main/img/Main.png)
 
 ## Features:
 + Allows dynamic table generation based on user input;
